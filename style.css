@@ -1,0 +1,35 @@
+p{ font-family: 'Times New Roman', Times, serif;
+   color: black
+   ;
+}
+#img1{
+    height: 60%;
+    
+}
+#img2{
+    float: right;
+}
+#img3{
+    
+}
+#name{
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+}
+#pname{ color: blue;}
+#ul1{color: aquamarine;}
+#x1{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+#x2{
+    color: blueviolet;
+}
+#x3{ font-size: large;
+font-weight: bold;
+}
+#x4{font-weight: bold;
+font-size: large;}
